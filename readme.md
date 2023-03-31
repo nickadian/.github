@@ -33,6 +33,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickadian&show_icons=true&locale=en&layout=compact" alt="nickadian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickadian&show_icons=true&locale=en" alt="nickadian" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickadian&" alt="nickadian" /></p>
