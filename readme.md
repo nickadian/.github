@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick!!</h1>
-<h3 align="center">A driven dev from Canada</h3>
+<h3 align="center">A driven automations dev from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickadian&label=Profile%20views&color=0e75b6&style=flat" alt="nickadian" /> </p>
 
